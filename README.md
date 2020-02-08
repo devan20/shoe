@@ -1,2 +1,0 @@
-# shoe
-Created with CodeSandbox
